@@ -1,5 +1,7 @@
 # Project-Rockbuster
 Project Rockbuster Stealth
+
+Project report (https://public.tableau.com/app/profile/winter4019/viz/ProjectRockbuster/Story1)
 ## Introduction 
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to
 launch an online video rental service in order to stay competitive.
